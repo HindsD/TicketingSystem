@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DotNetTicketSystem/1.0.0": {
+        "runtime": {
+          "DotNetTicketSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetTicketSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

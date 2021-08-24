@@ -1,0 +1,13 @@
+E:\code stuff\DotNetTicketSystem\bin\Debug\netcoreapp3.1\DotNetTicketSystem.exe
+E:\code stuff\DotNetTicketSystem\bin\Debug\netcoreapp3.1\DotNetTicketSystem.deps.json
+E:\code stuff\DotNetTicketSystem\bin\Debug\netcoreapp3.1\DotNetTicketSystem.runtimeconfig.json
+E:\code stuff\DotNetTicketSystem\bin\Debug\netcoreapp3.1\DotNetTicketSystem.runtimeconfig.dev.json
+E:\code stuff\DotNetTicketSystem\bin\Debug\netcoreapp3.1\DotNetTicketSystem.dll
+E:\code stuff\DotNetTicketSystem\bin\Debug\netcoreapp3.1\DotNetTicketSystem.pdb
+E:\code stuff\DotNetTicketSystem\obj\Debug\netcoreapp3.1\DotNetTicketSystem.csprojAssemblyReference.cache
+E:\code stuff\DotNetTicketSystem\obj\Debug\netcoreapp3.1\DotNetTicketSystem.AssemblyInfoInputs.cache
+E:\code stuff\DotNetTicketSystem\obj\Debug\netcoreapp3.1\DotNetTicketSystem.AssemblyInfo.cs
+E:\code stuff\DotNetTicketSystem\obj\Debug\netcoreapp3.1\DotNetTicketSystem.csproj.CoreCompileInputs.cache
+E:\code stuff\DotNetTicketSystem\obj\Debug\netcoreapp3.1\DotNetTicketSystem.dll
+E:\code stuff\DotNetTicketSystem\obj\Debug\netcoreapp3.1\DotNetTicketSystem.pdb
+E:\code stuff\DotNetTicketSystem\obj\Debug\netcoreapp3.1\DotNetTicketSystem.genruntimeconfig.cache
